@@ -8,3 +8,13 @@ h1{
   font-size: 50px;
   font-style: italic;
 }
+h2{
+  color: red;
+  font-size: 32px;
+  font-family: cursive;
+  padding-left: 20px;
+}
+.important{
+  color: yellow;
+  font-weight: bold;
+  }
